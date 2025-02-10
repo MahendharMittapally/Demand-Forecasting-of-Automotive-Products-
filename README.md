@@ -1,4 +1,4 @@
-# Demand Forecasting for Automotive Products 🚗📈
+# Time Series-Based Demand Forecasting for Automotive Products 🚗📈
 # Overview
 This project aims to forecast the demand for automotive products using various time series analysis and smoothing techniques. The goal is to analyze historical sales data and identify the best forecasting method based on Mean Absolute Deviation (MAD) scores.
 
