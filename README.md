@@ -2,10 +2,6 @@
 # Overview
 This project aims to forecast the demand for automotive products using various time series analysis and smoothing techniques. The goal is to analyze historical sales data and identify the best forecasting method based on Mean Absolute Deviation (MAD) scores.
 
-# Project Contributors
-Mahendhar Mittapally
-Kaden Rackely
-Deven Sandhan
 # Dataset
 The dataset contains historical sales data for an automotive product from a single store. The analysis focuses on understanding trends, seasonality, and residual patterns to improve demand forecasting accuracy.
 
